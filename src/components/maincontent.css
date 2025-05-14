@@ -1,0 +1,32 @@
+section {
+margin: 100px 0;
+padding: 0 30px  ;
+.container {
+  display: flex;
+  align-items: center;  
+  justify-content: space-between;
+  padding: 0 20px;
+  text-align: center;
+}
+  h2 {
+  padding: 20px 0;
+  color: #7e7870;
+  font-size: 18px;
+}
+h1 {
+  margin-bottom: 10px;
+}
+.MuiInputBase-root {
+  border:1px solid white !important;
+}
+  
+  .MuiSvgIcon-root  {
+    color: aliceblue !important;
+  }
+  .MuiSelect-select {
+    color: white !important;
+  }
+  .MuiFormLabel-root {
+    color: white !important;
+  }
+}
